@@ -5,4 +5,23 @@
 }
 header{ 
     background-color: #3126cf;
+    color: aliceblue; 
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.imagem{
+    width: 20%;
+}
+
+
+.item-lista{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+}
+
+.escola-imagem {
+    
 }
